@@ -1,4 +1,4 @@
-# 所有收集类项目:
+# 所有收集类项目
 - [收集的所有开源工具: sec-tool-list](https://github.com/alphaSeclab/sec-tool-list): 超过18K, 包括Markdown和Json两种格式
 - [全平台逆向资源: awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering):
     - Windows平台安全: PE/DLL/DLL-Injection/Dll-Hijack/Dll-Load/UAC-Bypass/Sysmon/AppLocker/ETW/WSL/.NET/Process-Injection/Code-Injection/DEP/Kernel/...
