@@ -1,4 +1,4 @@
-# Other Resource Collection Projects:
+# Other Resource Collection Projects
 - [All open source security tools I collected: sec-tool-list](https://github.com/alphaSeclab/sec-tool-list/blob/master/Readme_en.md): More than 18K. Both Markdown and Json format.
 - [Reverse Engineering Resources For All Platforms: awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_en.md): 
     - Windows: PE/DLL/DLL-Injection/Dll-Hijack/Dll-Load/UAC-Bypass/Sysmon/AppLocker/ETW/WSL/.NET/Process-Injection/Code-Injection/DEP/Kernel/...
